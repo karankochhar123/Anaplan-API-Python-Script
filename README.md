@@ -1,5 +1,5 @@
 # Anaplan-API-Python-Script
-Simple Python Script which connects download and load data to Anaplan using Python and Anaplan Public API's
+Simple Python Script which connects download and load data to Anaplan using Python and Anaplan Public API's. Scipt has been designed to load daily workspace and model memory usage data . Feel free to update change to use it for your own use cases . I have also included some instructions on how i desined my model. Hope this helps
 
 **Pre Requisite**
 
